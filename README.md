@@ -1,10 +1,10 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]()
+[![](https://raw.githubusercontent.com/saeed-elsaeed/saeed-elsaeed/master/profile.gif)]()
 
 ### 👨‍💻 About Me
-- طالب ومهتم بالـ **Cybersecurity** و **Programming**  
-- حاليًا بتعلم: **Python, C++**  
-- عندي خبرة في أساسيات **Networking** و **Linux**  
-- بحب أشتغل على مشاريع **Cybersecurity** + **Problem Solving**  
+- Passionate about **Cybersecurity** and **Programming**  
+- Skilled in **Python**, **C++**, and basic **Networking**  
+- Familiar with **Linux environments** and system administration  
+- Interested in **Penetration Testing**, **Bug Bounty**, and **Red Teaming**  
 
 ---
 
@@ -25,12 +25,11 @@
 ---
 
 ### 🔐 Cybersecurity Projects
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/your-username/Network-Tools)  
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/your-username/SQL-Injection)  
-[![](https://img.shields.io/badge/-🩸%20Packet%20Sniffer-000)](https://github.com/your-username/Packet-Sniffer)  
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/saeed-el-saeed/Network-Tools)  
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/saeed-el-saeed/SQL-Injection)  
+[![](https://img.shields.io/badge/-🩸%20Packet%20Sniffer-000)](https://github.com/saeed-el-saeed/Packet-Sniffer)  
 
 ---
 
 ### 📊 GitHub Stats
-<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=your-username&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
+<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=saeed-el-saeed&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-el-saeed&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
